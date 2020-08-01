@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_x1 {
     public static void main(String[] args) {
         char c = 'C', h = 'H', e = 'E', o = 'O', n = 'N', a = 'A';

@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_2 {
     public static void main(String[] args) throws java.io.IOException {
         int ken;

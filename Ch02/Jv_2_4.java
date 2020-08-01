@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_4 {
     public static void main(String[] args) {
         int i = 65;

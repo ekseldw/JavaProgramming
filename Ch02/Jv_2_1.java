@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_1 {
     public static void main(String[] args) {
         int ken = 65;

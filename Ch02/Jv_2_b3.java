@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_b3 {
     public static void main(String[] args) {
         int a = 123;

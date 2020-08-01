@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_b1 {
     public static void main(String[] args) {
         char c;

@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_x2 {
     public static void main(String[] args) {
         float k1, b1, y1, b3;

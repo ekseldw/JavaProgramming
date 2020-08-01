@@ -1,3 +1,5 @@
+package Ch02;
+
 class Jv_2_x3 {
     public static void main(String[] args) {
         byte b_a;
